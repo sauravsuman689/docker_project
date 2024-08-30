@@ -1,0 +1,3 @@
+[submodule "mern_app"]
+	path = mern_app
+	url = https://github.com/samaronybarros/movies-app.git
